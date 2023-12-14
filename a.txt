@@ -1,0 +1,6 @@
+#include<iostream.h>
+int main()
+{
+count<<"hello sauce";
+return 0;
+}
